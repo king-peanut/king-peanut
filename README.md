@@ -2,8 +2,6 @@
 
 I'm a software engineer specializing in Python, and I love to learn new technology and new programming languages to improve my knowledge and skill. 🧑‍💻
 
-I currently live in Bangkok, Thailand.
-
 I have been implementing the APIs, Backend, Microservices, and Modules in Python for Web Application projects using frameworks like Django, Flask, and FastAPI. 🤩
 
 My scope of work includes:
